@@ -170,49 +170,27 @@ NEWS PRESENCE OF ASTEROID NAMES RELATES TO ANGLES TO SPECIAL POINTS
 
  ![95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3_64.png](HTMLFiles/95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3_64.png)
 
-  Mesarthim      Statistic   Ljung-Box 125.958 
+  Mesarthim      Statistic   Ljung-Box 125.958 9.11442\*10^^-25 
 
-   9.11442\*10^^-25 
+   Sun      Statistic   Ljung-Box 294.864 1.03087\*10^^-60 
 
-   Sun      Statistic   Ljung-Box 294.864 
+   Moon      Statistic   Ljung-Box 105.809 1.53568\*10^^-20 
 
-   1.03087\*10^^-60 
+   Mercury      Statistic   Ljung-Box 241.016 3.40645\*10^^-49 
 
-   Moon      Statistic   Ljung-Box 105.809 
+   Venus      Statistic   Ljung-Box 427.296 3.77017\*10^^-89 
 
-   1.53568\*10^^-20 
+   Mars      Statistic   Ljung-Box 282.834 3.88604\*10^^-58 
 
-   Mercury      Statistic   Ljung-Box 241.016 
+   Jupiter      Statistic   Ljung-Box 141.619 4.56394\*10^^-28 
 
-   3.40645\*10^^-49 
+   Saturn      Statistic   Ljung-Box 321.568 1.94682\*10^^-66 
 
-   Venus      Statistic   Ljung-Box 427.296 
+   Uranus      Statistic   Ljung-Box 208.179 3.44001\*10^^-42 
 
-   3.77017\*10^^-89 
+   Neptune      Statistic   Ljung-Box 199.374 2.57884\*10^^-40 
 
-   Mars      Statistic   Ljung-Box 282.834 
-
-   3.88604\*10^^-58 
-
-   Jupiter      Statistic   Ljung-Box 141.619 
-
-   4.56394\*10^^-28 
-
-   Saturn      Statistic   Ljung-Box 321.568 
-
-   1.94682\*10^^-66 
-
-   Uranus      Statistic   Ljung-Box 208.179 
-
-   3.44001\*10^^-42 
-
-   Neptune      Statistic   Ljung-Box 199.374 
-
-   2.57884\*10^^-40 
-
-   Pluto      Statistic   Ljung-Box 345.258 
-
-   1.60865\*10^^-71 
+   Pluto      Statistic   Ljung-Box 345.258 1.60865\*10^^-71 
 
  
 
@@ -220,49 +198,27 @@ NEWS PRESENCE OF ASTEROID NAMES RELATES TO ANGLES TO SPECIAL POINTS
 
  ![95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3_65.png](HTMLFiles/95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3_65.png)
 
-  Mesarthim      Statistic   Dickey-Fuller F -182.787 
+  Mesarthim      Statistic   Dickey-Fuller F -182.787 1.25284\*10^^-11 
 
-   1.25284\*10^^-11 
+  Sun      Statistic   Dickey-Fuller F -125.891 4.96421\*10^^-10 
 
-   Sun      Statistic   Dickey-Fuller F -125.891 
+  Moon      Statistic   Dickey-Fuller F -177.957 1.63147\*10^^-11 
 
-   4.96421\*10^^-10 
+  Mercury      Statistic   Dickey-Fuller F -126.903 4.58685\*10^^-10 
 
-   Moon      Statistic   Dickey-Fuller F -177.957 
+  Venus      Statistic   Dickey-Fuller F -139.311 1.82631\*10^^-10 
 
-   1.63147\*10^^-11 
+  Mars      Statistic   Dickey-Fuller F -142.579 1.45266\*10^^-10 
 
-   Mercury      Statistic   Dickey-Fuller F -126.903 
+  Jupiter      Statistic   Dickey-Fuller F -181.7 1.32873\*10^^-11 
+  
+  Saturn      Statistic   Dickey-Fuller F -130.321 3.52829\*10^^-10 
 
-   4.58685\*10^^-10 
+  Uranus      Statistic   Dickey-Fuller F -139.319 1.82519\*10^^-10 
 
-   Venus      Statistic   Dickey-Fuller F -139.311 
+  Neptune      Statistic   Dickey-Fuller F -153.357 7.0777\*10^^-11 
 
-   1.82631\*10^^-10 
-
-   Mars      Statistic   Dickey-Fuller F -142.579 
-
-   1.45266\*10^^-10 
-
-   Jupiter      Statistic   Dickey-Fuller F -181.7 
-
-   1.32873\*10^^-11 
-
-   Saturn      Statistic   Dickey-Fuller F -130.321 
-
-   3.52829\*10^^-10 
-
-   Uranus      Statistic   Dickey-Fuller F -139.319 
-
-   1.82519\*10^^-10 
-
-   Neptune      Statistic   Dickey-Fuller F -153.357 
-
-   7.0777\*10^^-11 
-
-   Pluto      Statistic   Dickey-Fuller F -95.8932 
-
-   7.30495\*10^^-9 
+  Pluto      Statistic   Dickey-Fuller F -95.8932 7.30495\*10^^-9 
 
  
 
