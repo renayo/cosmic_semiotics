@@ -2,13 +2,13 @@
 
 raw data and all code
 
-## Download a nicely formatted htm version by choosing 
+### Download a nicely formatted htm version by choosing 
 
-## Calculations Output v3.zip above 
+### Calculations Output v3.zip above 
 
-## or go to the original computational file by choosing 
+### or go to the original computational file by choosing 
 
-## 95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3.nb above. The latter is in Wolfram language. ##
+### 95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3.nb above. The latter is in Wolfram language. ###
 
 For a reference see https://reference.wolfram.com/language/guide/Wavelets.html
 
