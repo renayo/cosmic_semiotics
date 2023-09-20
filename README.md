@@ -194,7 +194,7 @@ NEWS PRESENCE OF ASTEROID NAMES RELATES TO ANGLES TO SPECIAL POINTS
 
  
 
- Test for stationarity in filtered data
+ Test for stationarity (cyclicity) in filtered data
 
  ![95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3_65.png](HTMLFiles/95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3_65.png)
 
@@ -350,7 +350,7 @@ And when you add the main angles together (multiplying by the number of planets 
 
  ![95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3_108.png](HTMLFiles/95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3_108.png)
 
- Create an ACF (autocorrelation function) plot with white-noise confidence bands 
+ Create an ACF (autocorrelation function) plot with white-noise confidence bands as another way to see associated periods to the peak frequencies
 
  ![95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3_109.png](HTMLFiles/95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3_109.png)
 
