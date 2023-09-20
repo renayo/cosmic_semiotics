@@ -2,7 +2,7 @@
 
 raw data and all code
 
-### Download a nicely formatted htm version by choosing 
+### Download a nicely formatted htm version of this readme.md by choosing 
 ### Calculations Output v3.zip above 
 ### or go to the original computational file by choosing 
 ### 95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3.nb above which is in Mathematica Wolfram language. ###
