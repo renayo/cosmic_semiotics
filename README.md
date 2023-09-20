@@ -3,8 +3,7 @@
 
 raw data and all code
 
-
-95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3 
+Download a nicely formatted htm version by choosing Calculations Output v3.zip above or go to the original computational file by choosing 95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3.nb above. The latter is in Wolfram language.
 
 https://reference.wolfram.com/language/guide/Wavelets.html
 
