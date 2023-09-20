@@ -1,11 +1,10 @@
 # Minor planet orbits and the use of minor planet nomenclature in news articles: computational materials for publication
 
-
 raw data and all code
 
-Download a nicely formatted htm version by choosing Calculations Output v3.zip above or go to the original computational file by choosing 95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3.nb above. The latter is in Wolfram language.
+##Download a nicely formatted htm version by choosing Calculations Output v3.zip above or go to the original computational file by choosing 95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3.nb above. The latter is in Wolfram language.##
 
-https://reference.wolfram.com/language/guide/Wavelets.html
+For a reference see https://reference.wolfram.com/language/guide/Wavelets.html
 
 NEWS PRESENCE OF ASTEROID NAMES RELATES TO ANGLES TO SPECIAL POINTS
 
