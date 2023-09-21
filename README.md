@@ -3,9 +3,9 @@
 raw data and all code
 
 ### Download a up-to-date and nicely formatted htm version of this readme.md by choosing 
-### Calculations Output v4.zip above 
+### MinorPlanetGoogleNews11SpecialPointsPublicv1ceiling.zip above 
 ### or go to the original computational file by choosing 
-### 95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv4.nb above which is in Mathematica Wolfram language. ###
+### MinorPlanetGoogleNews11SpecialPointsPublicv1ceiling.nb above which is in Mathematica Wolfram language. ###
 
 For a reference see https://reference.wolfram.com/language/guide/Wavelets.html
 
