@@ -2,10 +2,10 @@
 
 raw data and all code
 
-### Download a nicely formatted htm version of this readme.md by choosing 
-### Calculations Output v3.zip above 
+### Download a up-to-date and nicely formatted htm version of this readme.md by choosing 
+### Calculations Output v4.zip above 
 ### or go to the original computational file by choosing 
-### 95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv3.nb above which is in Mathematica Wolfram language. ###
+### 95PercentCIMinorPlanetGoogleNews11SpecialPointsPublicv4.nb above which is in Mathematica Wolfram language. ###
 
 For a reference see https://reference.wolfram.com/language/guide/Wavelets.html
 
