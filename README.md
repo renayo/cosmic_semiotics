@@ -2,4 +2,4 @@
 
 Raw data and all code.
 
-The code is in Mathematica Wolfram language. (You can download Wolfram Mathematica for a month-long free trial.)
+The code is in either Puthon or Mathematica Wolfram language. (You can download Wolfram Mathematica for a month-long free trial.)
