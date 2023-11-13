@@ -1,11 +1,5 @@
 # Minor planet orbits and the use of minor planet nomenclature in news articles: computational materials for publication
 
-raw data and all code
+Raw data and all code.
 
-Download a up-to-date and nicely formatted htm version of calculations output by choosing
-
-MinorPlanetGoogleNews11SpecialPointsPublicv1ceilingRA.zip or get the PDF at MinorPlanetGoogleNews11SpecialPointsPublicv1ceilingRA.pdf. Both are above.
-
-Go to the original computational file by choosing 
-
-MinorPlanetGoogleNews11SpecialPointsPublicv1ceilingRA.nb above which is in Mathematica Wolfram language. (You can download Wolfram Mathematica for a month-long free trial.)
+The code is in Mathematica Wolfram language. (You can download Wolfram Mathematica for a month-long free trial.)
