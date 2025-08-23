@@ -3,14 +3,6 @@
 
 # Minor planet orbits and the use of minor planet nomenclature in news articles: computational materials for publication
 
-Raw data and all code.
-
-The code is in either Python or Mathematica Wolfram language. (You can download Wolfram Mathematica for a month-long free trial.)
-
-The PDF of the code for results generation is available here too, if you just want to look at that. It was created in landscape mode to accomodate the width needed.
-
-
----
 
 # Cosmic Semiotics: Minor Planet Orbits and Astronyms in the News
 ## Research Summary
@@ -102,3 +94,13 @@ While the correlations are statistically significant, several interpretive cauti
 - **Multiple Testing**: With 351,190 data points, some patterns may emerge by chance
 - **Selection Bias**: The naming of minor planets and time period could influence results
 - **Cultural Specificity**: Google News primarily reflects English-language Western media
+
+---
+
+Tis repository contains all raw data and all code.
+
+The code is in either Python or Mathematica Wolfram language. (You can download Wolfram Mathematica for a month-long free trial.)
+
+The PDF of the code for results generation is available here too, if you just want to look at that. It was created in landscape mode to accomodate the width needed.
+
+
