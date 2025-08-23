@@ -100,5 +100,5 @@ This research provides quantitative evidence for astrological principles using r
 While the correlations are statistically significant, several interpretive cautions apply:
 - **Correlation vs. Causation**: The mechanism linking orbital positions to news content remains unexplained
 - **Multiple Testing**: With 351,190 data points, some patterns may emerge by chance
-- **Selection Bias**: The choice of minor planets and time period could influence results
+- **Selection Bias**: The naming of minor planets and time period could influence results
 - **Cultural Specificity**: Google News primarily reflects English-language Western media
